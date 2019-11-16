@@ -1,7 +1,9 @@
 # ETL-Project
 
 Possible Data Sets
+
 https://www.kaggle.com/datafiniti/mens-shoe-prices
+
 https://www.kaggle.com/datafiniti/womens-shoes-prices
 
 Proposal
